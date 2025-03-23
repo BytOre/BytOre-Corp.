@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+h6{
+  text-align: right;
+  color: white;
+}
+
+#register{
+  position: relative;
+  padding: 20px 30px;
+  font-size: 32px;
+  border: none;
+  outline: none;
+  color: #000000;
+  filter: url('#gooey');
+  background-color: #ff4545;
+  cursor: pointer;
+}
+p{
+  color: white;
+}
